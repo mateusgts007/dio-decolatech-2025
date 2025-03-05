@@ -1,0 +1,12 @@
+@Entity
+@Data
+public class Agendamento {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+    private LocalDateTime dataHora;
+    @ManyToOne
+    private Usuario cliente;
+    @ManyToOne
+    private Servico servico;
+}
