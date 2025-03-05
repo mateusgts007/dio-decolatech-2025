@@ -1,0 +1,13 @@
+@Entity
+@Data
+public class Post {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+    private String titulo;
+    private String conteudo;
+    private String tipo; // LISTA, QUIZ, NOTICIA
+    private LocalDateTime dataPublicacao;
+    @ManyToOne
+    private Usuario autor;
+}
