@@ -1,0 +1,28 @@
+==========================================
+             RECIBO DE PAGAMENTO          
+==========================================
+Data: 25/10/2023
+Número do Recibo: 123456
+
+------------------------------------------
+Cliente: João da Silva
+CPF: 123.456.789-00
+Endereço: Rua das Flores, 123, Centro, São Paulo/SP
+
+------------------------------------------
+Descrição dos Serviços:
+1. Consultoria em TI - R$ 1.500,00
+2. Desenvolvimento de Aplicativo - R$ 3.000,00
+3. Manutenção de Sistemas - R$ 800,00
+
+------------------------------------------
+Total: R$ 5.300,00
+Forma de Pagamento: Transferência Bancária
+
+------------------------------------------
+Assinatura do Emitente:
+_________________________
+Maria Oliveira
+CNPJ: 12.345.678/0001-99
+Telefone: (11) 98765-4321
+==========================================
